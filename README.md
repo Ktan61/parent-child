@@ -1,4 +1,4 @@
 # Class 12
 
 ## Description
-- passing values from child to parent
+- passing values over from parent to child and child to parent
