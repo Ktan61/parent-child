@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <main className={`${styles.main}`}>
         <ParentToChild/>
-        <ChildToParent/>
+        <ChildtoParent/>
       </main>
     </>
   );
